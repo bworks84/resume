@@ -15,6 +15,10 @@ body {
   color: #555555;
 }
 
+h6 {
+  color: #fff;
+}
+
 .bold {
   font-weight: 700;
   font-size: 16px;
@@ -236,4 +240,8 @@ a:active {
 
 .resume .resume_right .resume_hobby ul li:last-child:before {
   display: none;
+}
+
+#visits {
+  color: #fff;
 }
